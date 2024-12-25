@@ -1,0 +1,14 @@
+Program Example1; (* Example 1 *)
+Var n: Integer;
+    m: Integer;
+    o: Integer;
+    p: Integer;
+    s: Integer;
+
+Begin
+  n := 10;
+  m := 2;
+  o := 3;
+  p := 5;
+  m, n := 10, 2;
+End. (* Example 1 *)
